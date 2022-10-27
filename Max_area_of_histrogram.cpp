@@ -64,3 +64,4 @@ cout<<getMaxArea(arr,cnt);
 
     return 0;
 }
+//contributed by rick raj
